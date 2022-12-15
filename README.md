@@ -1,3 +1,3 @@
-# Proyect2-DataAnalitics-Bootcamp
+# Project2-DataAnalytics-Bootcamp
 
 ReadMe
