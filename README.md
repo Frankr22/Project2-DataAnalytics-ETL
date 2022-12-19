@@ -1,36 +1,11 @@
-# Project2-DataAnalytics-Bootcamp
+# Project2-DataAnalytics-ETL
 
 ReadMe
 
-At least two data sources
--	Kaggle
--	Data.world
--	Data.gov.au
--	Google data set search
-Perform ETL (extract, transform, load)
--	Datasets used and their sources
--	Type of data wrangling performed
-    o	Data cleaning
-    o	Joining
-    o	Filtering
-    o	Aggregating
--	Schemata used in the final production database
-Steps
--	Research questions.
--	Do relationship diagram (ERD).
--	SQL (Postgres) or no SQL (MongoDB)?
--	Transform into pandas dataframe
--	Clean data
--	Load it into database
-Project Proposal
-Report (word doc)
-Executive Summary, 1.5 spacing, page numbers
-1.	Extract
-2.	Transform
-    -	What transform was required?
-3.	Load
+Welcome to the ReadMe for our data analytics ETL project. In this ReadMe, we will provide a detailed overview of the steps taken to extract, transform, and load data from data sources into a database.
 
-GitHub repository
--	Markup feature Jupyter Notebooks
--	Readme
--	gitignore
+The goal of this project was to obtain at least two data files from a reliable source, ideally in .csv or .json file type. The data source we access was credit card application data used to predict the credit application approvals (宋骁 Seanny 2019).   We then used a combination of Postgres, Python, and other ETL frameworks to extract, transform, and load the data, while ensuring the accuracy and integrity of the resulting dataset.
+Throughout the project, we worked closely as a team to design and implement the ETL process. Using Jupyter Notebooks to ensure code was executed correctly, and fix errors were appropriate.
+
+This GitHub respository contains the Jupyter Notebook used to conduct the ETL, as well as a technical report that further details the analysis.
+The original datasources can be found in the Resources folder within this respostiory.
