@@ -20,6 +20,7 @@ Before you can run this project, you will need to have the following software in
 
 Python 3
 A modern web browser
+
 You will also need to install the following Python packages:
 
 pandas
