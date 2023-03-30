@@ -1,6 +1,6 @@
-# Project2-DataAnalytics-ETL
+# Extract, Transform & Load (ETL) Process Case Study
 
-ReadMe Introduction
+## Introduction
 
 Welcome to the ReadMe for our data analytics ETL project. This project was developed as part of a data analytics bootcamp and is designed to demonstrate the skills learned in extracting, transforming, and loading data from various sources into a target database or data warehouse.
 
@@ -12,21 +12,17 @@ Throughout the project, we worked closely as a team to design and implement the 
 This GitHub respository contains the Jupyter Notebook used to conduct the ETL, as well as a technical report that further details the analysis.
 The original datasources can be found in the Resources folder within this respostiory.
 
-Getting Started
+## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Prerequisites
+## Prerequisites
 Before you can run this project, you will need to have the following software installed on your machine:
+- Python 3
+- A modern web browser
+- pandas
+- sqlalchemy
+- datetime
+- timedelta
 
-Python 3
-A modern web browser
-
-You will also need to install the following Python packages:
-
-pandas
-sqlalchemy
-datetime
-timedelta
-
-Contributions
+## Contributions
 This project was developed as part of a data analytics bootcamp and is not currently accepting contributions. However, we welcome any feedback or suggestions for improvement.
